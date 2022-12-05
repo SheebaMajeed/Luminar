@@ -1,0 +1,10 @@
+/* div#ul1.a{
+    color:rgb(112, 4, 112);
+    background-color: black;
+
+} */
+ul :hover{
+    color: rgb(226, 214, 226);
+    text-decoration: underline;
+    /* background-color: rgb(194, 66, 66); */
+}
