@@ -8,3 +8,16 @@ ul :hover{
     text-decoration: underline;
     /* background-color: rgb(194, 66, 66); */
 }
+
+
+@media(min-width:600px){
+    #d1{
+        font-size: smaller;
+    }
+}
+
+#dcard1:hover{
+ height:590px;
+ font-size: large;
+ box-shadow: 10em;
+}
